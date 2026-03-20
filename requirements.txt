@@ -1,0 +1,7 @@
+customtkinter
+pdfplumber
+openpyxl
+xlwings
+Pillow
+CTkMessagebox
+python-dotenv

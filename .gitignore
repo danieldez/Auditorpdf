@@ -1,0 +1,28 @@
+# Configuración Sensible
+config_auditor.json
+.env
+
+# Archivos de Datos (Resultados)
+*.xlsx
+*.csv
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos compilados (PyInstaller)
+build/
+dist/
+*.spec
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+*.lnk
