@@ -10,7 +10,7 @@ Este proyecto es una herramienta de automatización diseñada para extraer, vali
 - **Panel de Control Intuitivo**: Dashboard con estadísticas en tiempo real sobre el progreso de la auditoría y detección de errores.
 - **Modos Especializados**: Incluye un modo para auditoría de nómina y seguridad social.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje**: Python 3.x
 - **UI/UX**: `CustomTkinter` para una interfaz moderna y oscura.
